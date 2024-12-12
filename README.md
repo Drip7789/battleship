@@ -52,7 +52,7 @@
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/battleship.git
+git clone https://github.com/Drip7789/battleship.git
 cd battleship
 ```
 
