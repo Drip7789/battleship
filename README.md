@@ -15,12 +15,12 @@
 <br>
 
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#requirements">Requirements</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#how-to-play">How To Play</a> •
-  <a href="#game-rules">Game Rules</a> •
-  <a href="#structure">Structure</a>
+  <a href="#-features">Features</a> •
+  <a href="#-requirements">Requirements</a> •
+  <a href="#-installation">Installation</a> •
+  <a href="#-how-to-play">How To Play</a> •
+  <a href="#-game-rules">Game Rules</a> •
+  <a href="#-structure">Structure</a>
 </p>
 
 ## 🎮 Features
