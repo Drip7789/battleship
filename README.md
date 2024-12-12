@@ -137,7 +137,7 @@ battleship/
 
 <div align="center">
   <h2>📝 License</h2>
-  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+  <p>This project is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 </div>
 
 ---
